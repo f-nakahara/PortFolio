@@ -305,6 +305,8 @@ Jira でタスク管理が行われており、ただ単に無作為にチケッ
 【DB・ストレージ】
 
 - Firestore
+- SQFlite
+- SharedPreferences
 
 【その他】
 
