@@ -24,6 +24,8 @@ jobs:
 
       - name: Generate PDF
         run: npm run build:pdf
+        env:
+          PDF_CONFIG_FILE: ./pdf-configs/config.js
 
       - name: Commit and push
         run: |
