@@ -39,7 +39,7 @@
 ### フレームワーク
 - フロントエンド: React, Next.js
 - バックエンド: FastAPI, Flask, Gin
-- モバイル: Flutter
+- モバイル: Flutter, Kotlin, Swift
 - インフラ: Terraform
 
 ### インフラ・クラウド
